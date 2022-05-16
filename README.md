@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Benita-Rufus
+- 👀 I’m interested in connecting with others and to get opportunities in my career path
+- 🌱 I’m currently learning product deisgn with Ingressive for Good in Partnership with Zuri Academy
+- 💞️ I’m looking to collaborate with Organizations to explore and boraden my knowledge
+- 📫 How to reach me: benitarufus96@gmail.com
