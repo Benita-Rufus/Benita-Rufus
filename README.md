@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Benita-Rufus
-- 👀 I’m interested in connecting with others and to get opportunities in my career path
-- 🌱 I’m currently learning product deisgn with Ingressive for Good in Partnership with Zuri Academy
-- 💞️ I’m looking to collaborate with Organizations to explore and boraden my knowledge
-- 📫 How to reach me: benitarufus96@gmail.com
+👋 Hi, I’m @Benita-Rufus
+🔍 Data Analyst with experience in Data Analytics
+📚 Currently learning Data Analysis with Python through the Tech Up Africa Program in partnership with Dataquest (6-month training)
+🎓 Completed Data Analytics training on the 3MTT platform (Nigeria)
+🤝 Open to collaboration and new opportunities to apply and expand my skills
+📬 Reach me: benitarufus96@gmail.com
